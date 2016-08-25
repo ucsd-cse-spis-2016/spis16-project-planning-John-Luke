@@ -1,1 +1,1 @@
-# spis16-project-planning-John-Luke
+# spis16-project-planning-robotics-John-Luke
