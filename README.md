@@ -1,6 +1,8 @@
 #Names, Area, Mentor
 Luke P, John H
+
 Robotics
+
 Mentor: David Le
 
 #Brief Description
